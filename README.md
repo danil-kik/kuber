@@ -1,1 +1,1 @@
-Прект кубера с применением DaemonSet и CronJob 
+Проект кубера с применением DaemonSet и CronJob 
